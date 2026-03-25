@@ -1,4 +1,4 @@
-🍽️ What To Eat Picker
+## 🍽️ What To Eat Picker
 
 A modern and responsive web application that helps users quickly decide what to eat when they are confused about food choices.
 
@@ -8,7 +8,7 @@ This project is built using React.js for dynamic UI components and Bootstrap for
 
 🌐 Live Demo
 
-🔗 https://your-live-demo-link.com
+🔗  https://sakshimalkar.github.io/MealPickUP/
 
 🚀 Features
 🎲 Random food suggestion generator
